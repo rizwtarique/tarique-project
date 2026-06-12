@@ -1,0 +1,5 @@
+a=int(input('enter your integer'))
+print('the value of a is',a)
+b=float(input('enter your float'))
+print('the value of b is',b)    
+print('the sum of a and b is',a+b)
